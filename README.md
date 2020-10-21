@@ -1,12 +1,4 @@
-First..I used my own personal domain as PhpMyAdmin..
-
-www.takenmind.com/spider/index.php is used to enter news into the database
-
-www.takenmind.com/spider/connection2.php is used to create connection to the database
-
-www.takenmind.com/spider/jsonarray.php is used to convert the mysql object to json array
-
-The principle I had used is 
+Working of the Application:
 
 1. convert sql to json
 2. parse json in android app
