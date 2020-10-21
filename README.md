@@ -14,8 +14,4 @@ The principle I had used is
 4. Sync the server db and local db in background to check for updates
 5. In case of updates, send  a push notification.
 
-The app is incomplete. But can be completed with some more time. 
-
-PS. Donot want to give excuses. but internet access speed was poor in NITT wifi and caused technical delays in creating json.
-
 
